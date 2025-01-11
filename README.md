@@ -4,4 +4,5 @@ I used Loan Prediction dataset in csv form from https://raw.githubusercontent.co
 
 # Visualization 
 This visualization illustrates the relationship between the borrower's income and the amount of loan he applied for after being predicted using KNN.
-![Visualisasi Plot](./images/knnvis.png)
+
+# ![Visualisasi Plot](./images/knnvis.png)
